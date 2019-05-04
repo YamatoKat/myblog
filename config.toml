@@ -1,0 +1,4 @@
+baseURL = "https://yamatokat.github.io/"
+languageCode = "ja"
+title = "Yama Blog"
+theme = "hugo-theme-minos"
