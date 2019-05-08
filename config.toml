@@ -1,4 +1,6 @@
 baseURL = "http://www.sayaka.work/"
+canonifyurls = true
 languageCode = "ja"
 title = "Saya Blog"
 theme = "hugo-theme-minos"
+publishDir = "docs"
