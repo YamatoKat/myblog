@@ -1,4 +1,4 @@
-baseURL = "https://yamatokat.github.io/"
+baseURL = "http://www.sayaka.work/"
 languageCode = "ja"
 title = "Yama Blog"
 theme = "hugo-theme-minos"
